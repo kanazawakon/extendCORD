@@ -21,8 +21,7 @@ This research project aims to **create a dataset of coal ash waste and its chemi
 
 ### Specific Aim 2
 
-<img src='/pics/map_ca.png' style='float:right; width:300px; height:100 px'/>
-
+<img src='pics/map_ca.png' style='float:right; width:300px; height:100 px'/>
 The research team will study **how much coal ash waste can be used in building materials and where it can be found**. They will look at the chemical properties of the ash and see if it meets the requirements for building materials. The team will also see where the ash is located in the U.S. and if it's available in that area. As a stretch goal, the team will try to predict how the ash will affect the environment by looking at the chemicals in the ash and comparing it to data on groundwater quality at ash waste sites.
 
 ## Learning Objectives
