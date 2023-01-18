@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Every year, people make more than 4 billion tons of cement for building roads, bridges, and buildings. This process creates a lot of pollution, especially in the United States. To reduce this pollution, scientists are looking for new ways to make cement that don't create as much pollution. One idea is to use waste materials from burning coal, called coal ash, to make cement. This can lower the pollution created and help meet the growing demand for building materials that don't add to pollution.
+Every year, people make more than 4 billion tons of cement for infrastructure such as roads, bridges, and buildings. This process can be resource intensive and emit greenhouse gases. To reduce this pollution, scientists and engineers are looking for new ways to make cement that is less polluting and carbon intensive. One idea is to use waste materials from coal combustion, called coal ash, to make cement. This can lower the pollution created during cement production and help meet the growing demand for building materials.
 
 This research aims to find ways to use coal ash waste for building materials by identifying and addressing the main problems that prevent its full use. These problems include 
 - not knowing the composition of the ash, the ash having different compositions, and 
@@ -16,23 +16,24 @@ This research aims to find out how much coal ash waste can be used in building m
 
 ### Specific Aim 1
 
-This research project aims to **create a dataset of coal ash waste and its chemical properties** at the disposal sites of coal-fired power plants. The team will use data from a database called the [Carbon Ore Resources Database (CORD)](https://www.arcgis.com/apps/dashboards/925daa29f2ed44fb808b1d388689b382) and other sources to gather information on coal resources, production, and shipments to power plants. They will also include historical data dating back to the 1970s to get a more complete picture of the coal ash waste. The team may also share the updated dataset in an article if they make enough progress.
+This research project aims to **create a dataset of coal ash waste and its chemical properties** at the disposal sites of coal-fired power plants. The team will use data from a database called the [Carbon Ore Resources Database (CORD)](https://www.arcgis.com/apps/dashboards/925daa29f2ed44fb808b1d388689b382) and other sources to gather information on coal resources, production, and shipments to power plants. The team will also include historical data dating back to the 1970s to get a more complete picture of the coal ash waste. The team may also share the updated dataset in an article if they make enough progress.
 
 ### Specific Aim 2
 
-The research team will study **how much coal ash waste can be used in building materials and where it can be found**. They will look at the chemical properties of the ash and see if it meets the requirements for building materials. They will also see where the ash is located in the U.S. and if it's available in that area. As a stretch goal, the team will try to predict how the ash will affect the environment by looking at the chemicals in the ash and comparing it to data on groundwater quality at ash waste sites.
+The research team will study **how much coal ash waste can be used in building materials and where it can be found**. They will look at the chemical properties of the ash and see if it meets the requirements for building materials. The team will also see where the ash is located in the U.S. and if it's available in that area. As a stretch goal, the team will try to predict how the ash will affect the environment by looking at the chemicals in the ash and comparing it to data on groundwater quality at ash waste sites.
 
 ## Learning Objectives
 
-- Students will learn application of data science techs with domain knowledge in chemical field.
-- Students will learn fundamental principles of evaluating and recycling Coal Combustion Products (CCP).
-- Students will learn how to integrate and clean the data collected from government websites.
-- Students will learn the 
+- Students will learn applications of data science techniques in the context of material sustainability; waste resource recovery; and civil and environmental engineering.
+- Students will learn fundamental principles for evaluating and recycling Coal Combustion Products (CCP).
+- Students will learn how to integrate and clean the data collected from national energy information repositories.
+- Students will learn how to use and pulish dataset for material sustainability applications.
 
 ## Prerequisites
 
-- Experience of coding with Python
-- CHEM 11, 18, 19, 21L, 23L, or 31L, or equivalent university-level general chemistry
+- Experience with Python.
+- Interest in environemntal science and engineering; material sustainability. 
+- (optional) Experience with ArcGIS.
 
 ## Mentorship Team
 
