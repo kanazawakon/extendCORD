@@ -1,3 +1,4 @@
+# Resourcing of Coal Ash Wastes for Decarbonized Infrastructure Materials
 ## Introduction
 Every year, people make more than 4 billion tons of cement for building roads, bridges, and buildings. This process creates a lot of pollution, especially in the United States. To reduce this pollution, scientists are looking for new ways to make cement that don't create as much pollution. One idea is to use waste materials from burning coal, called coal ash, to make cement. This can lower the pollution created and help meet the growing demand for building materials that don't add to pollution.
 This research aims to find ways to use coal ash waste for building materials by identifying and addressing the main problems that prevent its full use. These problems include 
@@ -22,9 +23,9 @@ The research team will study **how much coal ash waste can be used in building m
 - CHEM 11, 18, 19, 21L, 23L, or 31L, or equivalent university-level general chemistry
 
 ## Mentorship Team
-| Heileen Hsu-Kim |     Zehao Jin      |
+|Heileen Hsu-Kim  |Zehao Jin           |
 |:---------------:|:------------------:|
-|      image      |       image        |
-| Professor, CEE  | PhD Candidate, CEE |
-|      email      |       email        |
+|image            |image               |
+|Professor, CEE   |PhD Candidate, CEE  |
+|email            |email               |
 
