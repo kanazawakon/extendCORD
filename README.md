@@ -29,7 +29,7 @@ The research team will study **how much coal ash waste can be used in building m
 - Students will learn applications of data science techniques in the context of material sustainability; waste resource recovery; and civil and environmental engineering.
 - Students will learn fundamental principles for evaluating and recycling Coal Combustion Products (CCP).
 - Students will learn how to integrate and clean the data collected from national energy information repositories.
-- Students will learn how to use and pulish dataset for material sustainability applications.
+- Students will learn how to use and publish dataset for material sustainability applications.
 
 ## Prerequisites
 
