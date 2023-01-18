@@ -1,4 +1,4 @@
 # setting
-theme: cayman
+remote_theme: pages-themes/cayman@v0.2.0
 title: Resourcing of Coal Ash Wastes for Decarbonized Infrastructure Materials
 show_downloads: false
