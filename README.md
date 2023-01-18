@@ -1,5 +1,3 @@
-# Resourcing of Coal Ash Wastes for Decarbonized Infrastructure Materials
-
 ## Introduction
 
 Every year, people make more than 4 billion tons of cement for infrastructure such as roads, bridges, and buildings. This process can be resource intensive and emit greenhouse gases. To reduce this pollution, scientists and engineers are looking for new ways to make cement that is less polluting and carbon intensive. One idea is to use waste materials from coal combustion, called coal ash, to make cement. This can lower the pollution created during cement production and help meet the growing demand for building materials.
