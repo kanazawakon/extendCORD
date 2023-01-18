@@ -35,9 +35,28 @@ The research team will study **how much coal ash waste can be used in building m
 
 ## Mentorship Team
 
-| Heileen Hsu-Kim |     Zehao Jin      |
-|:---------------:|:------------------:|
-|      image      |       image        |
-| Professor, CEE  | PhD Candidate, CEE |
-|      email      |       email        |
+### Project Lead and Mentor
 
+|                                                      Heileen Hsu-Kim                                                      |                                                 Zehao Jin                                                  |
+|:-------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+| ![helen](http://hsukim.pratt.duke.edu/sites/hsukim.pratt.duke.edu/files/images/11921_hsu_kim_helen002%20%281200px%29.jpg) | ![zehao](http://hsukim.pratt.duke.edu/sites/hsukim.pratt.duke.edu/files/images/Zehao1%28portrait%29_0.jpg) |
+|                                                      Professor, CEE                                                       |                                             PhD Candidate, CEE                                             |
+|                                            [hsukim@duke.edu](hsukim@duke.edu)                                             |                                  [zehao.jin@duke.edu](zehao.jin@duke.edu)                                  |
+
+### Faculty Collaborators
+
+Laura Dalton, Assistant Professor, CEE
+
+Leanne Gilbertson, Associate Professor, CEE
+
+Manolis Veveakis, Associate Professor, CEE
+
+### External Collaborators
+
+National Energy Technology Laboratory (NETL)
+
+Scott Montross, Research Scientist, NETL
+
+Kelly Rose, Technical Director, Science-bsed Ai/Ml Institute (SAMI),NETL
+
+Devin Justman, Research Scientist, NETL
